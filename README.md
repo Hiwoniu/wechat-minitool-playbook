@@ -10,7 +10,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-07C160?style=flat-square)](LICENSE)
 [![Tools](https://img.shields.io/badge/小工具-6%20个-3B82F6?style=flat-square)](#-6-个小工具)
-[![Status](https://img.shields.io/badge/状态-待实测-FFB74D?style=flat-square)](#-几条提醒)
+[![Status](https://img.shields.io/badge/状态-已做出%20·%20部分待验证-07C160?style=flat-square)](#-几条提醒)
 [![Stars](https://img.shields.io/github/stars/Hiwoniu/wechat-minitool-playbook?style=flat-square&color=FF7043)](https://github.com/Hiwoniu/wechat-minitool-playbook/stargazers)
 [![微信交流群](https://img.shields.io/badge/微信-加入交流群-07C160?style=flat-square&logo=wechat&logoColor=white)](https://my.feishu.cn/wiki/Eq6twbgv5irYgikOa8Pc2fHfnKg)
 
@@ -70,6 +70,23 @@
   </tr>
 </table>
 
+### 📸 实际做出来的样子
+
+<table>
+  <tr>
+    <td align="center"><img src="tools/01-随口记/images/home.jpg" width="150"><br><sub>速记待办</sub></td>
+    <td align="center"><img src="tools/02-放学打卡/images/setup.jpg" width="150"><br><sub>放学后打卡</sub></td>
+    <td align="center"><img src="tools/03-爸妈用药记录/images/elder-home.jpg" width="150"><br><sub>家庭用药打卡 · 老人端</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="tools/04-聚会AA账本/images/home.jpg" width="150"><br><sub>AA 记账</sub></td>
+    <td align="center"><img src="tools/05-社区团购接龙/images/home.jpg" width="150"><br><sub>团购接龙</sub></td>
+    <td align="center"><img src="tools/06-搭子减脂榜/images/home.jpg" width="150"><br><sub>减脂打卡</sub></td>
+  </tr>
+</table>
+
+一次成型约 6–10 分钟，自带插画和配色。客户端一次只能做一个，并行提交的会排队，需要回一句「继续」。
+
 每个文件夹都是同一套结构：
 
 ```text
@@ -116,7 +133,7 @@ flowchart LR
 ## ⚠️ 几条提醒
 
 > [!IMPORTANT]
-> **6 个工具都还没实测。** 提示词已写好，跑完会补制作记录。标【需实测】的能力（身份权限隔离、提醒、剪贴板等）以你自己试出来的为准。
+> **6 个工具已于 2026-11-20 全部做出来**，耗时、踩坑和截图见各自的 `制作记录.md`。身份权限隔离、结算算法、提醒、真机分享等标【需实测】的能力还没验证，以你自己试出来的为准。
 
 - **内测阶段**：Beta 版，需要内测资格和桌面客户端，功能入口随时会变。
 - **别存敏感信息**：数据在云端，密码、证件号、病历、银行卡别往里写。
@@ -124,7 +141,8 @@ flowchart LR
 
 ## 🗺️ 后续更新
 
-- [ ] 6 个小工具逐个实测，补齐制作记录和截图
+- [x] 6 个小工具全部做出，补齐制作记录和首页截图
+- [ ] 逐项验证身份隔离、结算、隐私等功能，补真机截图
 - [ ] 读者许愿：留言里点赞最高的需求，做出来放进来
 - [ ] 同一个需求，不同写法的提示词效果对比
 
