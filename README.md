@@ -12,7 +12,7 @@
 [![Tools](https://img.shields.io/badge/小工具-6%20个-3B82F6?style=flat-square)](#-6-个小工具)
 [![Status](https://img.shields.io/badge/状态-待实测-FFB74D?style=flat-square)](#-几条提醒)
 [![Stars](https://img.shields.io/github/stars/Hiwoniu/wechat-minitool-playbook?style=flat-square&color=FF7043)](https://github.com/Hiwoniu/wechat-minitool-playbook/stargazers)
-[![飞书交流群](https://img.shields.io/badge/飞书-加入交流群-3370FF?style=flat-square)](https://my.feishu.cn/wiki/Eq6twbgv5irYgikOa8Pc2fHfnKg)
+[![微信交流群](https://img.shields.io/badge/微信-加入交流群-07C160?style=flat-square&logo=wechat&logoColor=white)](https://my.feishu.cn/wiki/Eq6twbgv5irYgikOa8Pc2fHfnKg)
 
 [6 个小工具](#-6-个小工具) · [制作流程](docs/01-制作流程.md) · [提示词技巧](docs/03-提示词技巧.md) · [为什么是小工具](docs/04-为什么是小工具.md) · [交流群](#-交流群)
 
@@ -132,7 +132,7 @@ flowchart LR
 
 用「做个小工具」做出了好玩的东西，或者踩了坑，欢迎来群里聊。
 
-<a href="https://my.feishu.cn/wiki/Eq6twbgv5irYgikOa8Pc2fHfnKg"><img src="https://img.shields.io/badge/👉%20点这里-进飞书交流群-3370FF?style=for-the-badge" alt="进飞书交流群"></a>
+<a href="https://my.feishu.cn/wiki/Eq6twbgv5irYgikOa8Pc2fHfnKg"><img src="https://img.shields.io/badge/👉%20点这里-扫码进微信交流群-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="扫码进微信交流群"></a>
 
 ## 🤝 投稿
 
